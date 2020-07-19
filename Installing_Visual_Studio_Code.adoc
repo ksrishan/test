@@ -1,0 +1,7 @@
+== Installing Visual Studio Code
+To install Visual Studio Code go to https://code.visualstudio.com/Download.
+After successful download, Create a doc folder in your preferred drive.
+Open the window terminal from this folder.
+Type *Code .*.
+The Visual Studio Code window opens.
+
